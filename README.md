@@ -1,4 +1,2 @@
 # roblox-process-fucker
-exe file that kills roblox process.
-
-launch it when roblox audio wont stop playing or roblox cant close
+just closes roblox when it crashes lol (u have to launch it manually sadly cuz im not so good at coding)
